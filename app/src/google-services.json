@@ -3,17 +3,12 @@
     "project_number": "461622545016",
     "firebase_url": "https://mobilesystemeprak-8e3e1-default-rtdb.europe-west1.firebasedatabase.app",
     "project_id": "mobilesystemeprak-8e3e1",
-<<<<<<< Updated upstream
-    "storage_bucket": "mobilesystemeprak-8e3e1.firebasestorage.app"
-=======
-    "storage_bucket": "mobilesystemeprak-8e3e1.appspot.com",
-    "package_name": "com.example.mobsyspr2"
->>>>>>> Stashed changes
+    "storage_bucket": "mobilesystemeprak-8e3e1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:461622545016:android:ced2f4021466b1a2fbbb8d",
+        "mobilesdk_app_id": "1:461622545016:android:58d75348ab84148afbbb8d",
         "android_client_info": {
           "package_name": "com.example.mobsyspr2"
         }
